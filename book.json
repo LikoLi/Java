@@ -1,0 +1,12 @@
+{
+	"title": "Java成神之路",
+	"description": "2020Java进阶",
+	"styles": {
+        "website": "./styles/website.css"
+    }, 
+    "plugins": [
+        "chapter-fold"
+    ],
+	"pluginsConfig": {
+	}
+}
